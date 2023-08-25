@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Surprise for Her</title>
+<style>
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f2f2f2;
+  }
+  .message {
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  .heart {
+    color: red;
+  }
+  .surprise {
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 20px;
+  }
+</style>
+</head>
+<body>
+<div class="message">
+  <p>My Dearest,</p>
+  <p>I wanted to remind you today and always that</p>
+  <p>I <span class="heart">&hearts;</span> you immensely,</p>
+  <p>and I am so grateful to have you in my life.</p>
+  <p>Your smile brightens up my darkest days,</p>
+  <p>and your presence brings me endless joy.</p>
+  <p>As you go on your way, please always remember</p>
+  <p>to ingat ka sa byahe!</p>
+  <p class="surprise">A little surprise for you to make you smile!</p>
+</div>
+</body>
+</html>
